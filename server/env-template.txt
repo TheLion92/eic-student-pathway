@@ -1,0 +1,22 @@
+# Email Configuration for EIC Pathway
+# Copy this file to .env and fill in your actual email credentials
+
+# Gmail Configuration (recommended for development)
+EMAIL_USER=your-email@gmail.com
+EMAIL_PASS=your-app-password
+
+# Alternative: Use your own SMTP server
+# SMTP_HOST=smtp.yourdomain.com
+# SMTP_PORT=587
+# SMTP_USER=your-username
+# SMTP_PASS=your-password
+
+# JWT Security Keys (CHANGE THESE IN PRODUCTION!)
+JWT_SECRET=your-super-secret-jwt-key-change-in-production
+JWT_REFRESH_SECRET=your-super-secret-refresh-key-change-in-production
+
+# MongoDB Connection
+MONGODB_URI=mongodb://localhost:27017
+
+# Server Port
+PORT=5001
