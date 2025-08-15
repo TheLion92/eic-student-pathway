@@ -1,6 +1,6 @@
 # 🚀 EIC Pathway - Student Assessment & Learning Platform
 
-A comprehensive web application designed to assess and guide students through the EIC (Entrepreneurship, Innovation, and Creativity) Pathway at Bowie State University.
+A comprehensive web application designed to assess and guide students through the EIC (Entrepreneurship Innovation Center) Pathway at Bowie State University.
 
 ## ✨ Features
 
